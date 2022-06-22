@@ -1,0 +1,9 @@
+img{
+    width: 100%;
+    height: 400px;
+}
+.col-xl-4 button{
+    width: 100%;
+    height: 100px;
+    margin-bottom: 50px;
+}
